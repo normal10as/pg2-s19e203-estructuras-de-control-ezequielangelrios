@@ -2,7 +2,7 @@ Imports System
 Imports System.Math
 Module Program
     Sub Main(args As String())
-        Dim Valor1, Valor2, Valor3, Valor4, Valor5, Comparar As Integer
+        Dim Valor1, Valor2, Valor3, Valor4, Valor5 As Integer
 
         Console.WriteLine("Ingrese Cinco valores consecutivamente: ")
         Valor1 = Console.ReadLine

@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.deps.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.pdb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.pdb

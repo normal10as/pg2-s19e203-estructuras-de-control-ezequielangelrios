@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.deps.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.pdb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.pdb

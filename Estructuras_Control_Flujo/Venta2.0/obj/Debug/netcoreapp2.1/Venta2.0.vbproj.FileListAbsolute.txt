@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.deps.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.pdb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.pdb
