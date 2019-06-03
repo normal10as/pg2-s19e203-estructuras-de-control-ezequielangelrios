@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.deps.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\bin\Debug\netcoreapp2.1\DiasMes.pdb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.dll
+C:\Users\eze_l\source\repos\Programacion2\EstructurasGitHub\Estructuras_Control_Flujo\DiasMes\obj\Debug\netcoreapp2.1\DiasMes.pdb
